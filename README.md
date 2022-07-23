@@ -1,2 +1,2 @@
-# typescript-boilerplate
-A starter project to Typescript
+# node server
+A simple server with the http module
